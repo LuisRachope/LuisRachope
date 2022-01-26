@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisRachope
-- 👀 I’m interested in SQL, C#, PowerBI, HTML, CSS and JavaScript
-- 🌱 I’m currently learning SQL SSIS, PowerBI, C# and Azure DevOps
+- 👀 I’m interested in SQL, Python, C#, PowerBI, HTML, CSS and JavaScript
+- 🌱 I’m currently learning SQL SSIS, PowerBI, Python, AWS Amazon and Azure DevOps
 - 📫 How to reach me:
 Linkedin: https://www.linkedin.com/in/luisrachope/
 
