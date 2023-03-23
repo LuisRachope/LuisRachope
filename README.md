@@ -1,7 +1,7 @@
 
 # Hi there. I am Luis Rachope 👋 . Welcome to my Profile!!!
 
-<img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGRqazM2cy0zNmU3MzZlZC1hM2Y1LTRlYWQtYmM1YS0yMDU1YWQ3OWQ4YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pgxwYJcrj6fKZmowAdX5HbdvaHWItqxLpSim41_sgC4" width="100%" height="400"><br>
+<img align="center" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" width="100%" height="400"><br>
 
 
 - 🎯 Graduated in Systems Analysis and Development at FIAP and graduated in Business Administration.
