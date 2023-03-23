@@ -1,19 +1,34 @@
-
-# Hi there. I am Luis Rachope 👋 . Welcome to my Profile!!!
-
-<img align="center" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" width="100%" height="400"><br>
-
-
-- 🎯 Graduated in Systems Analysis and Development at FIAP and graduated in Business Administration.
-- 👀 I’m interested in SQL, Python, C# .Net, PowerBI, HTML, CSS, JavaScript and AWS Amazon (Cloud)
-- 🌱 I’m currently learning C# .Net (AspNet), Python, AWS Amazon and Azure DevOps
-- 📫 How to reach me:
-Linkedin: <a href="luis.chiasso@hotmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/luisrachope/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 <!---
 LuisRachope/LuisRachope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Hi there. I am Luis Rachope 👋 . Welcome to my Profile!!!
+
+<img align="center" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" width="100%" height="400"><br>
+<table align="right">
+    <tr>
+        <td>
+            <a href="README.md"><img src="https://cdn.iconscout.com/icon/free/png-256/united-states-of-america-flag-country-nation-union-empire-33135.png" height="13"> English</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="README_pt.md"><img src="https://cdn.iconscout.com/icon/free/png-256/brazil-flag-country-nation-union-empire-32937.png" height="13"> Português</a>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+## About me: 
+- 🎯 I’m Graduated in Systems Analysis and Development at FIAP and graduated in Business Administration.
+- 👀 I’m interested in SQL, Python, C# .Net, PowerBI, HTML, CSS, JavaScript and AWS Amazon (Cloud)
+- 🌱 I’m currently learning C# .Net (AspNet), Python, AWS Amazon and Azure DevOps
+
+## How to reach me:📫
+<a href="luis.chiasso@hotmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/luisrachope/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## Tech Stack
 <p>
