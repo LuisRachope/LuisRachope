@@ -3,9 +3,10 @@ LuisRachope/LuisRachope is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there. I am Luis Rachope 👋 . Welcome to my Profile!!!
-
 <img align="center" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" width="100%" height="400"><br>
+
+<h1 align="center">  Hi there. I am Luis Rachope 👋 . Welcome to my Profile!!!</h1>
+
 <table align="right">
     <tr>
         <td>
@@ -19,18 +20,26 @@ You can click the Preview link to take a look at your changes.
     </tr>
 </table>
 
+
+
 <br>
 
-## About me: 
+## About me: 📝
 - 🎯 I’m Graduated in Systems Analysis and Development at FIAP and graduated in Business Administration.
 - 👀 I’m interested in SQL, Python, C# .Net, PowerBI, HTML, CSS, JavaScript and AWS Amazon (Cloud)
 - 🌱 I’m currently learning C# .Net (AspNet), Python, AWS Amazon and Azure DevOps
 
-## How to reach me:📫
-<a href="luis.chiasso@hotmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/luisrachope/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-## Tech Stack
+## How to reach me: 📫
+<div align="center">
+    <a href="luis.chiasso@hotmail.com" target="_blank"> 
+        <img alt="Outlook" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&style=for-the-badge&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/luisrachope/" target="_blank"> 
+        <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
+    </a>
+</div>    
+    
+## Tech Stack: 🛠
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-flat-square&logo=css3&logoColor=white" />
@@ -43,7 +52,7 @@ You can click the Preview link to take a look at your changes.
   
 </p>
 
-## GitHub Stats
+## GitHub Stats: 📈
 
 <div align="center">
     <img height='137px' src="https://github-readme-stats.vercel.app/api?username=LuisRachope&hide_title=true&count_private=true&show_icons=true&theme=tokyonight"/>
@@ -51,3 +60,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisRachope&theme=dark" width="48%" />
 </div>
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=LuisRachope&style=for-the-badge&label=Profile+Views&color=green">
+    <img src="https://img.shields.io/github/followers/LuisRachope?style=for-the-badge&label=Followers&color=blue">
+</div>
