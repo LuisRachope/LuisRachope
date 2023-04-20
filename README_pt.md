@@ -58,7 +58,7 @@ Sou Luis Rachope, tenho 26 anos.
 
 <div align="center">
     <img height='137px' src="https://github-readme-stats.vercel.app/api?username=LuisRachope&hide_title=true&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRachope&layout=compact&theme=tokyonight&hide=python"/>
+    <img height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRachope&layout=compact&theme=tokyonight&hide=java"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisRachope&theme=dark" width="48%" />
 </div>
 
