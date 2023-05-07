@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About me: 📝
 I'am Luis Rachope, I'm 26 years old.
-- 🎯 I’m Graduated in Systems Analysis and Development at FIAP and graduated in Business Administration.
+- 🎯 I’m Graduated in Systems Analysis and Development at FIAP.
 - 👀 I’m interested in SQL, Python, C# .Net, HTML, CSS, JavaScript and AWS Amazon (Cloud)
 - 🌱 I’m currently learning C# .Net (AspNet), Python, AWS Amazon and Azure DevOps
 
