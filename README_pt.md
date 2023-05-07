@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Sobre mim: 📝
 Sou Luis Rachope, tenho 26 anos.
-- 🎯 Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e graduado em Administração de Empresas.
+- 🎯 Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP.
 - 👀 Tenho interesses em SQL, Python, C# .Net, HTML, CSS, JavaScript e AWS Amazon (Cloud)
 - 🌱 Atualmente estou aprendendo C# .Net (AspNet), Python, AWS Amazon e Azure DevOps
 
