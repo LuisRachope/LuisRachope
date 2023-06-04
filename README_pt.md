@@ -26,10 +26,12 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## Sobre mim: 📝
-Sou Luis Rachope, tenho 26 anos.
-- 🎯 Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP.
-- 👀 Tenho interesses em SQL, Python, C# .Net, HTML, CSS, JavaScript e AWS Amazon (Cloud)
-- 🌱 Atualmente estou aprendendo C# .Net (AspNet), Python, AWS Amazon e Azure DevOps
+<div>
+    <p>Sou Luis Rachope, tenho 27 anos.</p>
+    <p>- 🎯 Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP.</p>
+    <p>- 👀 Tenho interesses em SQL, Python, C# .Net, HTML, CSS, JavaScript e AWS Amazon (Cloud)</p>
+    <p>- 🌱 Atualmente estou aprendendo C# .Net (AspNet), Python, AWS Amazon e Azure DevOps</p>
+</div>
 
 ## Como me achar?: 📫
 <div align="center">
