@@ -25,10 +25,12 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## About me: 📝
-I'am Luis Rachope, I'm 26 years old.
-- 🎯 I’m Graduated in Systems Analysis and Development at FIAP.
-- 👀 I’m interested in SQL, Python, C# .Net, HTML, CSS, JavaScript and AWS Amazon (Cloud)
-- 🌱 I’m currently learning C# .Net (AspNet), Python, AWS Amazon and Azure DevOps
+<div>
+    <p>I'am Luis Rachope, I'm 27 years old.</p>
+    <p>- 🎯 I’m Graduated in Systems Analysis and Development at FIAP.</p>
+    <p>- 👀 I’m interested in SQL, Python, C# .Net, HTML, CSS, JavaScript and AWS Amazon (Cloud)</p>
+    <p>- 🌱 I’m currently learning C# .Net (AspNet), Python, AWS Amazon and Azure DevOps</p>
+</div>
 
 ## How to reach me: 📫
 <div align="center">
