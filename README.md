@@ -2,10 +2,10 @@
 LuisRachope/LuisRachope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">  Hi there. I am Luis Rachope 👋 . Welcome to my Profile!!!</h1>
 
 <img align="center" src="https://cutewallpaper.org/25/animated-synthpop-wallpaper-gif/110-new-retro-wave-ideas-retro-waves-synthwave-synthwave-art.gif" width="100%" height="400"><br>
 
+<h1 align="center">  Hi there. I am Luis Rachope 👋 . Welcome to my Profile!!!</h1>
 
 <table align="right">
     <tr>
