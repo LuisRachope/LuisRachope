@@ -3,9 +3,7 @@ LuisRachope/LuisRachope is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-<img align="center" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" width="100%" height="400"><br>
+<img align="center" src="https://cutewallpaper.org/25/animated-synthpop-wallpaper-gif/110-new-retro-wave-ideas-retro-waves-synthwave-synthwave-art.gif" width="100%" height="400"><br>
 
 <h1 align="center">  Olá, Eu sou Luis Rachope 👋 . Bem-vindo ao meu perfil!!!</h1>
 
