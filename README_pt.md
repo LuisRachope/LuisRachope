@@ -26,13 +26,13 @@ You can click the Preview link to take a look at your changes.
 ## Sobre mim: 📝
 <div>
     <p>Sou Luis Rachope, tenho 27 anos.</p>
-    <p>- 🎯 Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP.</p>
-    <p>- 👀 Tenho interesses em SQL, Python, C# .Net, HTML, CSS, JavaScript e AWS Amazon (Cloud)</p>
-    <p>- 🌱 Atualmente estou aprendendo C# .Net (AspNet), Python, AWS Amazon e Azure DevOps</p>
+    <p> 🎯: Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP.</p>
+    <p> 👀: Tenho interesses em SQL, Python, C# .Net, HTML, CSS, JavaScript e AWS Amazon (Cloud)</p>
+    <p> 🌱: Atualmente estou aprendendo C# .Net (AspNet), Python, AWS Amazon e Azure DevOps</p>
 </div>
 
 ## Como me achar?: 📫
-<div align="center">
+<div>
     <a href="luis.chiasso@hotmail.com" target="_blank"> 
         <img alt="Outlook" src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=outlook&logoColor=white">
     </a>&nbsp;&nbsp;
@@ -40,6 +40,11 @@ You can click the Preview link to take a look at your changes.
         <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
 </a>
 </div>  
+
+## Certificados: 🏆
+<div>
+    <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="140" height="140">
+</div>
 
 ## Minhas Stack's: 🛠
 <p>
