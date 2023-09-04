@@ -27,13 +27,13 @@ You can click the Preview link to take a look at your changes.
 ## About me: 📝
 <div>
     <p>I'am Luis Rachope, I'm 27 years old.</p>
-    <p>- 🎯 I’m Graduated in Systems Analysis and Development at FIAP.</p>
-    <p>- 👀 I’m interested in SQL, Python, C# .Net, HTML, CSS, JavaScript and AWS Amazon (Cloud)</p>
-    <p>- 🌱 I’m currently learning C# .Net (AspNet), Python, AWS Amazon and Azure DevOps</p>
+    <p> 🎯: I’m Graduated in Systems Analysis and Development at FIAP.</p>
+    <p> 👀: I’m interested in SQL, Python, C# .Net, HTML, CSS, JavaScript and AWS Amazon (Cloud)</p>
+    <p> 🌱: I’m currently learning C# .Net (AspNet), Python, AWS Amazon and Azure DevOps</p>
 </div>
 
 ## How to reach me: 📫
-<div align="center">
+<div>
     <a href="luis.chiasso@hotmail.com" target="_blank"> 
         <img alt="Outlook" src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=outlook&logoColor=white">
     </a>&nbsp;&nbsp;
@@ -41,7 +41,13 @@ You can click the Preview link to take a look at your changes.
         <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
     </a>
 </div>    
-    
+
+## Certificates: 🏆
+<div>
+    <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="140" height="140">
+</div>
+
+
 ## Tech Stack: 🛠
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-flat-square&logo=html5&logoColor=white" />
