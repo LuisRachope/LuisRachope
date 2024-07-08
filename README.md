@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About me: 📝
 <div>
-    <p>I'am Luis Rachope, I'm 27 years old.</p>
+    <p>I'am Luis Rachope, I'm 28 years old.</p>
     <p> 🎯: I’m Graduated in Systems Analysis and Development at FIAP.</p>
     <p> 👀: I’m interested in SQL, Python, C# .Net, HTML, CSS, JavaScript and AWS Amazon (Cloud)</p>
     <p> 🌱: I’m currently learning C# .Net (AspNet), Python, AWS Amazon and Azure DevOps</p>
