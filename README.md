@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
     <p>I'am Luis Rachope, I'm 28 years old.</p>
     <p> 🎯: I’m Graduated in Systems Analysis and Development at FIAP.</p>
     <p> 👀: I’m interested in SQL, Python, C# .Net, HTML, CSS, JavaScript, TypeScript, Angular and AWS Amazon (Cloud)</p>
-    <p> 🌱: I’m currently learning C# .Net (AspNet), Python, AWS Amazon and Azure DevOps</p>
+    <p> 🌱: I’m currently learning C# .Net (AspNet), Python, Angular and TypeScript</p>
 </div>
 
 ## How to reach me: 📫
