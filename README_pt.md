@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 ## Como me achar?: 📫
 <div>
     <a href="luis.chiasso@hotmail.com" target="_blank"> 
-        <img alt="Outlook" src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=outlook&logoColor=white">
+        <img alt="Outlook" src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=minutemailer&logoColor=white">
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/luisrachope/" target="_blank"> 
         <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
