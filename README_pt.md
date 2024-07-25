@@ -50,12 +50,14 @@ You can click the Preview link to take a look at your changes.
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%20Sharp-%23239120?style=for-flat-square&logo=C Sharp&logoColor=white"> 
+  <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-%23239120?style=for-flat-square&logo=C Sharp&logoColor=white"> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-flat-square&logo=javascript&logoColor=black" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-blue?style=for-flat-square&logo=angular&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%FFFFFFF.svg?style=for-flat-square&logo=typescript&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-flat-square&logo=git&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-flat-square&logo=python&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=for-flat-square&logo=Amazon AWS&logoColor=yellow">
+  <img  src="https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=for-flat-square&logo=amazon&logoColor=white">
   
 </p>
 
