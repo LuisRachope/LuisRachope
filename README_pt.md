@@ -23,13 +23,18 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
-## Sobre mim: 📝
-<div>
-    <p>Sou Luis Rachope, tenho 28 anos.</p>
-    <p> 🎯: Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP.</p>
-    <p> 👀: Tenho interesses em SQL, Python, C# .Net, HTML, CSS, JavaScript, TypeScript, Angular e AWS Amazon (Cloud)</p>
-    <p> 🌱: Atualmente estou aprendendo C# .Net (AspNet), Python, Angular, TypeScript</p>
-</div>
+## 👨‍💻 About Me
+
+```typescript
+const luisRachope = {
+    local: "Brasil 🇧🇷",
+    idade: 29,
+    formacao: "Software Engineer @ FIAP",
+    focoAtual: ["Python", "C# .NET (ASP.NET)", "Angular", "TypeScript", "AWS"],
+    interesses: ["Cloud Computing", "Web Development", "DevOps", "Database Design"],
+    filosofiaPessoal: "Aprendizado e melhoria contínua 🚀"
+};
+```
 
 ## Como me achar?: 📫
 <div>
