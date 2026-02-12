@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍💻 About Me
  
 ```typescript
-const luis_rachope = {
+const luisRachope = {
     location: "Brazil 🇧🇷",
     age: 29,
     education: "Software Engineer @ FIAP",
